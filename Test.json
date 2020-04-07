@@ -1,0 +1,14 @@
+{
+
+"label" : "Fantasy Books (Test)",
+
+"description" : "Manchester City Library Fantasy Books",
+
+"isbns" : [
+  
+"9781627795227",
+"9780375890031",
+"9781619634473"    
+                
+    ]
+}
